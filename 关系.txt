@@ -1,0 +1,10 @@
+user -> 多 Item
+user->多Comment
+
+
+Comment ->user
+Comment 有parent和children
+Comment->Item
+
+Item ->User
+Item->Comments
